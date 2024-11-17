@@ -157,4 +157,4 @@ Acknowledgments
 GitHub Repository
 -----------------
 
-The source code for **SimpleTodoApp** is available on GitHub: **Project Repository Link**.
+The source code for **SimpleTodoApp** is available on GitHub: **[Project Repository Link](https://github.com/rmusukudabbidi/ToDoApp)**.
